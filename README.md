@@ -71,11 +71,11 @@ The app uses a **k-nearest-neighbours (kNN)** approach: the closer a site's cond
 - **Moon:** 107 usable sites (54 Recommended, 53 Acceptable). Not recommended starts at rank 108.
 - **Mars:** 48 usable sites (3 Recommended, 45 Acceptable). Not recommended starts at rank 49.
 
-![Ranked results](docs/results.png />)
+![Ranked results](docs/results.png<img width="1144" height="752" alt="results" src="https://github.com/user-attachments/assets/4a7b74c9-4ffc-4b72-8bfa-17302388fdc0" />
+ />)
 *Figure 3. Ranked results*
 
-## Validation<img width="1144" height="752" alt="results" src="https://github.com/user-attachments/assets/74a4b436-a0f7-4113-a997-8265aaf4c120" />
-
+## Validation
 
 The weights are a judgement call, so each weight group was moved down and up by 20% (10 tests per body) and all sites were re-ranked to see whether the answer changes.
 
@@ -86,10 +86,12 @@ The weights are a judgement call, so each weight group was moved down and up by 
   - **Moon:** Monturaqui, Grand Falls, Upheaval Dome, Morokweng, Saqqar, Kamil
   - **Mars:** Monturaqui, Kara-Kul, Carancas, Sierra Madera, Barringer (= Meteor), Grand Falls
 
-![Site stability](docs/validation-stability.png)
+![Site stability](docs/validation-stability.png<img width="1584" height="1520" alt="validation-stability" src="https://github.com/user-attachments/assets/17259772-136d-4e57-8a7b-3dd1e7d68f54" />
+)
 *Figure 4. How each site's rank changed across the weight tests*
 
-![Validation summary](docs/validation-summary.png)
+![Validation summary](docs/validation-summary.png<img width="1672" height="1508" alt="validation-summary" src="https://github.com/user-attachments/assets/c3871dad-a725-4c89-915f-cb41559c281f" />
+)
 *Figure 5. Validation summary for every test*
 
 ## Limitations
