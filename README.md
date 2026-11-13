@@ -1,4 +1,4 @@
-# Earth Analog Finder
+<img width="1936" height="2068" alt="results" src="https://github.com/user-attachments/assets/6e743908-8ebf-4395-b59e-275f85ffb3f3" /># Earth Analog Finder
 
 **[Parallex] | [Alex vega]**
 NASA Space Apps Challenge: *Identify Earth Locations that Analog the Permanent Moon Base Locations and Mars*
@@ -72,7 +72,7 @@ The app uses a **k-nearest-neighbours (kNN)** approach: the closer a site's cond
 - **Moon:** 107 usable sites (54 Recommended, 53 Acceptable). Not recommended starts at rank 108.
 - **Mars:** 48 usable sites (3 Recommended, 45 Acceptable). Not recommended starts at rank 49.
 
-![Ranked results](docs/results.png)
+![Ranked results](docs/<img width="1936" height="2068" alt="results" src="https://github.com/user-attachments/assets/6eeda6b0-86dc-42bc-a866-1a421ae6efb7" />)
 *Figure 3. Ranked results*
 
 ## Validation
