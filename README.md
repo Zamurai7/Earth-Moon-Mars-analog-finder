@@ -1,6 +1,6 @@
 # Earth Analog Finder
 
-**[App name] | [Team name]**
+**[Parallex] | [Alex vega]**
 NASA Space Apps Challenge: *Identify Earth Locations that Analog the Permanent Moon Base Locations and Mars*
 
 > Find the places on Earth that come closest to the Moon and Mars. Compare 187 sites, see which ones are recommended for testing, and spot the warnings before you go.
@@ -18,12 +18,12 @@ Earth Analog Finder helps teams find places on Earth that are most like the Moon
 - Open a site to see its score, status, conditions and any warnings.
 - Sites that are not recommended are clearly marked.
 
-![App screenshot 1](docs/app-1.png)
-![App screenshot 2](docs/app-2.png)
+![App screenshots](docs/app-1.png)
 
-*Figure 6. App screenshots* <!-- [Insert app photo 1] [Insert app photo 2] -->
+*Figure 6. App screenshots*
 
-## Data
+## Data<img width="1496" height="1480" alt="app-1" src="https://github.com/user-attachments/assets/284f82da-195c-47c1-aa9c-9bdaf7a24ca5" />
+
 
 | Dataset | Source |
 |---|---|
