@@ -37,10 +37,10 @@ Each Earth location has **10 conditions**: average, maximum and minimum temperat
 - Merged 5 sites that were listed twice, taking the data from 192 to **187 locations**. Two different places that share a name (Ritland) were kept apart.
 - Put both tables on the same units: solar radiation in **W/m²** and pressure in **kPa**.
 
-![Data before cleaning](docs/data-before.png)
+![Data before cleaning](docs<img width="1436" height="296" alt="data-before" src="https://github.com/user-attachments/assets/a5a8bc3d-5efc-4cf7-a6af-0d8f9cd8cfbf" />)
 *Figure 1. Earth locations data before cleaning*
 
-![Data after cleaning](docs/data-after.png)
+![Data after cleaning](docs/<img width="1584" height="552" alt="data-after" src="https://github.com/user-attachments/assets/4ca54322-5026-4a56-96b1-16f83acb6f5e" />
 *Figure 2. Earth locations data after cleaning*
 
 ## How It Works
