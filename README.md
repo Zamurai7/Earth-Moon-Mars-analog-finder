@@ -27,8 +27,8 @@ Earth Analog Finder helps teams find places on Earth that are most like the Moon
 
 | Dataset | Source |
 |---|---|
-| Earth locations | USGS — [Paste USGS link here] |
-| Moon and Mars reference | One row of average conditions per body. Source: [Add source if different from USGS] |
+| Earth locations | USGS — [(https://earthexplorer.usgs.gov/)] |
+| Moon and Mars reference | One row of average conditions per body. |
 
 Each Earth location has **10 conditions**: average, maximum and minimum temperature, pressure, wind, solar radiation, UV index, humidity, rainfall and elevation. Almost all locations are impact craters.
 
