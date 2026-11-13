@@ -71,10 +71,11 @@ The app uses a **k-nearest-neighbours (kNN)** approach: the closer a site's cond
 - **Moon:** 107 usable sites (54 Recommended, 53 Acceptable). Not recommended starts at rank 108.
 - **Mars:** 48 usable sites (3 Recommended, 45 Acceptable). Not recommended starts at rank 49.
 
-![Ranked results](docs/<img width="1936" height="2068" alt="results" src="https://github.com/user-attachments/assets/6eeda6b0-86dc-42bc-a866-1a421ae6efb7" />)
+![Ranked results](docs/results.png />)
 *Figure 3. Ranked results*
 
-## Validation
+## Validation<img width="1144" height="752" alt="results" src="https://github.com/user-attachments/assets/74a4b436-a0f7-4113-a997-8265aaf4c120" />
+
 
 The weights are a judgement call, so each weight group was moved down and up by 20% (10 tests per body) and all sites were re-ranked to see whether the answer changes.
 
@@ -99,7 +100,6 @@ The weights are a judgement call, so each weight group was moved down and up by 
 
 ## Getting Started
 
-<!-- Add setup and run instructions here, e.g. install steps, how to launch the app. -->
 
 ```bash
 # [Add install and run commands]
@@ -107,7 +107,7 @@ The weights are a judgement call, so each weight group was moved down and up by 
 
 ## Team
 
-<!-- [Team name] — add members and roles. -->
+<!-- [Alex Vega] — Abdallah, Myven bassem, Omr, Sarah serag. -->
 
 ## Acknowledgements
 
