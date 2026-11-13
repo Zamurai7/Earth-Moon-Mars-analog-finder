@@ -1,4 +1,3 @@
-<img width="1936" height="2068" alt="results" src="https://github.com/user-attachments/assets/6e743908-8ebf-4395-b59e-275f85ffb3f3" /># Earth Analog Finder
 
 **[Parallex] | [Alex vega]**
 NASA Space Apps Challenge: *Identify Earth Locations that Analog the Permanent Moon Base Locations and Mars*
