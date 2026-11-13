@@ -1,0 +1,41 @@
+body,site_id,Name,baseline_rank,best_rank,worst_rank,top10_in_scenarios,always_top10
+Moon,108,Monturaqui,1,1,7,10,True
+Moon,12,Grand Falls,2,1,5,10,True
+Moon,168,Upheaval Dome,3,1,7,10,True
+Moon,110,Morokweng,4,1,4,10,True
+Moon,141,Saqqar,5,2,6,10,True
+Moon,74,Kamil,6,1,8,10,True
+Moon,139,Santa Fe,7,5,14,8,False
+Moon,54,Gosses Bluff,8,6,11,9,False
+Moon,11,Barringer (= Meteor),9,7,17,6,False
+Moon,160,Tabun-Khara-Obo,10,5,22,3,False
+Moon,166,Tswaing (formerly Pretoria Saltpan),11,9,19,4,False
+Moon,5,Amguid,12,9,15,3,False
+Moon,62,Henbury,13,8,19,3,False
+Moon,118,Odessa,14,11,16,0,False
+Moon,59,Gweni-Fada,15,10,19,3,False
+Moon,13,Amboy,16,11,20,0,False
+Moon,174,Vredefort,17,10,23,1,False
+Moon,146,Sierra Madera,18,14,20,0,False
+Moon,70,Jebel Waqf as Suwwan,19,17,21,0,False
+Moon,83,Kgagodi,20,17,24,0,False
+Mars,108,Monturaqui,1,1,1,10,True
+Mars,76,Kara-Kul,2,2,2,10,True
+Mars,23,Carancas,3,3,3,10,True
+Mars,59,Gweni-Fada,4,4,15,8,False
+Mars,146,Sierra Madera,5,4,8,10,True
+Mars,11,Barringer (= Meteor),6,4,9,10,True
+Mars,12,Grand Falls,7,6,8,10,True
+Mars,31,Cloud Creek,8,4,11,8,False
+Mars,160,Tabun-Khara-Obo,9,5,16,7,False
+Mars,2,Agoudal,10,9,13,3,False
+Mars,110,Morokweng,11,6,21,4,False
+Mars,118,Odessa,12,8,18,3,False
+Mars,139,Santa Fe,13,9,20,3,False
+Mars,168,Upheaval Dome,14,11,17,0,False
+Mars,98,Maple Creek (= White Valley),15,9,24,1,False
+Mars,44,Eagle Butte,16,10,24,1,False
+Mars,54,Gosses Bluff,17,10,27,1,False
+Mars,14,Beaverhead,18,10,32,1,False
+Mars,16,Bigach,19,12,30,0,False
+Mars,74,Kamil,20,12,30,0,False

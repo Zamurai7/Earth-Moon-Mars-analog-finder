@@ -1,0 +1,7 @@
+requests
+pandas
+numpy
+xarray
+netCDF4
+tqdm
+jupyter

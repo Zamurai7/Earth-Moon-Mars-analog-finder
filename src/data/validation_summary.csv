@@ -1,0 +1,21 @@
+body,scenario,top10_overlap,top1_same,top1_name,max_rank_shift_in_top10,rank_correlation,status_changes
+Moon,temperature -20%,8,True,Monturaqui,11,0.997,42
+Moon,temperature +20%,10,False,Upheaval Dome,5,0.996,24
+Moon,atmosphere -20%,7,False,Kamil,8,0.996,19
+Moon,atmosphere +20%,8,False,Upheaval Dome,3,0.997,23
+Moon,radiation -20%,10,False,Upheaval Dome,6,0.994,16
+Moon,radiation +20%,8,True,Monturaqui,12,0.996,19
+Moon,moisture -20%,9,False,Grand Falls,3,0.999,11
+Moon,moisture +20%,9,True,Monturaqui,1,0.999,13
+Moon,terrain -20%,9,True,Monturaqui,2,1.0,19
+Moon,terrain +20%,8,False,Morokweng,7,0.999,10
+Mars,temperature -20%,7,True,Monturaqui,6,0.986,5
+Mars,temperature +20%,8,True,Monturaqui,11,0.985,9
+Mars,atmosphere -20%,9,True,Monturaqui,2,0.998,1
+Mars,atmosphere +20%,9,True,Monturaqui,2,0.999,6
+Mars,radiation -20%,8,True,Monturaqui,7,0.988,4
+Mars,radiation +20%,8,True,Monturaqui,7,0.991,6
+Mars,moisture -20%,10,True,Monturaqui,1,0.999,2
+Mars,moisture +20%,9,True,Monturaqui,1,0.999,1
+Mars,terrain -20%,9,True,Monturaqui,4,1.0,10
+Mars,terrain +20%,9,True,Monturaqui,2,1.0,5
