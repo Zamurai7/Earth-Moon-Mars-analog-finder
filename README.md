@@ -55,7 +55,7 @@ flowchart LR
     E --> F[results.json]
     F --> G[Parallax app]
 ```
-## App Repository: https://github.com/Zamurai7/Earth-Moon-Mars-analog-finder](https://github.com/abdon2006/parallax
+## App Repository: https://github.com/abdon2006/parallax
 
 ## App Features
 
