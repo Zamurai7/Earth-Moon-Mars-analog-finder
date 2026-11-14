@@ -154,7 +154,7 @@ Monturaqui is the closest site for both the Moon and Mars. No Earth site matches
 | **Moon** | 54 | 53 | rank 108 |
 | **Mars** | 3 | 45 | rank 49 |
 
-![Ranked results](docs/images/results.png)
+![Ranked results](docs/images/results.jpeg)
 
 ## Validation
 
@@ -169,7 +169,7 @@ The weights are a judgement call, so each weight group was moved down and up by 
 
 | Site stability | Validation summary |
 |---|---|
-| ![Site stability](docs/images/validation-site-stability.png) | ![Validation summary](docs/images/validation-summary.png) |
+| ![Site stability](docs/images/validation-site-stability.jpeg) | ![Validation summary](docs/images/validation-summary.jpeg) |
 
 ## Limitations
 
